@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(255, 243, 71);
+    color: black;
+    border: groove 1.5px black;
+    margin: 0 35%;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 4px 20px;
+    border-radius: 30px;
+}
+
+div{
+    background-color: yellow;
+    border: groove 1.5px black;
+    color: black;
+    margin: 0 35%;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 4px 20px;
+    border-radius: 30px;
+}

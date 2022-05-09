@@ -1,0 +1,32 @@
+
+
+body {
+background: url("../imagebes/70852.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+height: 450px;
+color:rgb(255, 255, 255);
+font-family: 'Raleway', sans-serif;
+}
+header{
+    background-color: white;
+}
+.conte2 {
+    text-align: center;
+    margin: 6em 0;
+    margin-bottom: 16px;
+}
+
+.conte2 li {
+    background-color: rgb(127, 225, 255);
+    color: rgb(0, 0, 0);
+    border: groove 1.5px rgb(50, 54, 255);
+    margin: 0 35%;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 4px 20px;
+    border-radius: 30px;
+    margin-bottom: 16px;
+}
+
+
